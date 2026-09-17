@@ -4,8 +4,7 @@ const page = { ownerName: "Elizeta", subdomain: "elizeta.com.br" };
 // Adicione, remova ou edite destinos apenas neste array.
 const cards = [
   { name: "Luiz Felipe", description: "Desenvolvedor e pesquisador em IA. Projetos e links pessoais.", image: "images/luiz.jpg", url: "https://luiz.elizeta.com.br" },
-  { name: "Maria Elizeta", description: "Página pessoal e principais links.", image: "images/maria.jpg", url: "https://maria.elizeta.com.br" },
-  { name: "João Elizeta", description: "Projetos, referências e formas de contato.", image: "images/joao.jpg", url: "https://joao.elizeta.com.br" }
+  { name: "Gustavo Elizeta", description: "Página pessoal e principais links.", image: "images/maria.jpg", url: "https://gustavo.elizeta.com.br" },
 ];
 
 const ownerName = document.querySelector("#owner-name");
